@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Minecraft : A Hubble-Mod Clone",
-  "short_name": "Minecraft",
-  "description": "Minecraft.js - A Minecraft Clone in JavaScript using THREE.js",
+  "name": "ChromeCraft : A Minecraft Implementation",
+  "short_name": "ChromeCraft",
+  "description": "ChromeCraft - Minecraft.js using THREE.js",
 
-  "version": "0.0.9",
+  "version": "0.0.3",
 
   "icons": {
     "16": "assets/cube/grass_side.png"
