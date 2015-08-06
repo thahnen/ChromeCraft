@@ -1,3 +1,5 @@
+//LW Beispiel
+
 window.onload = function() {
   // This is where stuff in our game will happen:
   var scene = new THREE.Scene();

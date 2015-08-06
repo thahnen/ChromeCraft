@@ -2,7 +2,7 @@
   * Es ist nicht meins :( Das muss ich noch implementieren :D
   * mit esc wird Maus nicht freigelassen :(
   * Fensterschluss muss mit q erzwungen werden
-  * Scheiss (X|Y|Z) Format, d.h. Y entspricht der Höhe :(
+  * Doofes (X|Y|Z) Format, d.h. Y entspricht der Höhe :(
 */
 
 (function() {

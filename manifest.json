@@ -4,7 +4,7 @@
   "short_name": "ChromeCraft",
   "description": "ChromeCraft - Minecraft.js using THREE.js",
 
-  "version": "0.0.3",
+  "version": "0.0.4",
 
   "icons": {
     "16": "assets/cube/grass_side.png"
